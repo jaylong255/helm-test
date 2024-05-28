@@ -1,0 +1,14 @@
+# Name of the chart
+name: nginx-server
+
+# Version of the chart
+version: 1.0.0
+
+# Applicaiton type
+appVersion: "latest"
+
+# Dependencies (empty for this chart)
+dependencies: []
+
+# Description of the chart
+description: A simple Nginx web server deployment
