@@ -1,0 +1,6 @@
+apiVersion: v2
+description: A Helm repository for my custom charts
+entries:
+  - name: nginx-server
+    version: 1.0.0
+    # Add more fields like description, appVersion, etc. for your chart
