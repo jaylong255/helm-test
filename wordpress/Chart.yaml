@@ -1,0 +1,20 @@
+# Name of the chart
+name: wordpress
+
+# Version of the chart
+version: 1.0.0
+
+# Applicaiton type
+appVersion: "latest"
+
+# kind: Chart
+
+# Dependencies
+dependencies:
+  - name: nginx-server
+    version: 1.0.0
+    # repository: https://<your-repo-url>/ # Replace with your repository URL
+    # repository: "https://github.com/jaylong255/helm-test/tree/main/nginx-server"
+
+# Description of the chart
+description: A simple WordPress application deployment with Nginx reverse proxy

@@ -1,0 +1,6 @@
+dependencies:
+- name: nginx-server
+  repository: ""
+  version: 1.0.0
+digest: sha256:cba34bece52eef8ab1bfa2dde55bec4fb2a0c1dbb5009e4c509bda312b07a06b
+generated: "2024-05-28T02:05:24.52724696-05:00"

@@ -1,0 +1,3 @@
+# Additional configuration for WordPress deployment
+image: wordpress:latest  # Override image if needed
+# ... (other wordpress configurations)
